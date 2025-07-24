@@ -48,7 +48,7 @@ To build an interactive analytics dashboard that visualizes and analyzes:
 ![CRM Cover](CRM_PROJECT_COVER.png)
 
 ### 📊 Lead Dashboard
-![Lead Dashboard](LEAD_DASHBORAD.png)
+![Lead Dashboard](./LEAD_DASHBOARD.png)
 
 ### 📊 Opportunity Dashboard
 ![Opportunity Dashboard](OPPORTUNITY_DASHBOARD.png)
